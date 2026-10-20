@@ -1,15 +1,15 @@
 :root {
-    --bg-color: #fcfcfc;  
-    --text-color: #2b3a42;   
-    --primary-color: #395c6b;
-    --section-bg: #f0f4f8;
+  --bg-color: #fcfcfc;
+  --text-color: #2b3a42;
+  --primary-color: #395c6b;
+  --section-bg: #f0f4f8;
 }
 
 .dark-theme {
-    --bg-color: #12181b;
-    --text-color: #e0e6ed;
-    --primary-color: #5b8a9e;
-    --section-bg: #1a2226;
+  --bg-color: #12181b;
+  --text-color: #e0e6ed;
+  --primary-color: #5b8a9e;
+  --section-bg: #1a2226;
 }
 
 * {
